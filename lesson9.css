@@ -81,12 +81,16 @@ main{
 
 	}
 
-	main{
-		width:90%;
+    main{
+		width:100%;
 	}
 
 	.step-box:last-child{
-	margin:auto;
+	     margin:auto;
+	}
+
+
+
 }
 
 
