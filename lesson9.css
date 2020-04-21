@@ -81,6 +81,10 @@ main{
 
 	}
 
+	main{
+		width:90%;
+	}
+
 	.step-box:last-child{
 	margin:auto;
 }
